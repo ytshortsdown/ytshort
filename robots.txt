@@ -1,28 +1,3 @@
 User-agent: * 
 
-Disallow: /about-us.php
-Disallow: /terms-of-service.php
-Disallow: /privacy-policy.php
-Disallow: /faq.php
-Disallow: /id71/
-Disallow: /fr71/
-Disallow: /bn71/
-Disallow: /ar71/
-Disallow: /ko71/
-Disallow: /es71/
-Disallow: /en71/
-Disallow: /de71/
-Disallow: /ms71/
-Disallow: /ja71/
-Disallow: /contact-us.php
-Disallow: /en71
-Disallow: /vi71/
-Disallow: /zn-cn71/
-Disallow: /ru71/
-Disallow: /pt71/
-Disallow: /ph71/
-Disallow: /my71/
-Disallow: /th71/
-Allow: /
-
-sitemap: https://ytshortsdown.com/sitemap.xml
+sitemap: https://ytshortsdown.github.io/ytshort/sitemap.xml
