@@ -1,3 +1,2 @@
-User-agent: * 
-
+User-agent: *
 sitemap: https://ytshortsdown.github.io/ytshort/sitemap.xml
