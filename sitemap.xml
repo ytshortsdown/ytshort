@@ -4,4 +4,8 @@
     <loc>https://ytshortsdown.github.io/ytshort/</loc>
     <changefreq>Daily</changefreq>
   </url>
+   <url>
+    <loc>https://ytshortsdown.github.io/ytshort/mp3juice/</loc>
+    <changefreq>Daily</changefreq>
+  </url>
 </urlset>
